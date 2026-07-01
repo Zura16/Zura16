@@ -100,18 +100,17 @@ Hi, I'm Aalind Kale!
 }
 ```
 
-<br>
+---
 
-<h4 align="center">My GitHub Statistics</h4>
+## Let's Collaborate
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zura16&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zura16&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+If you're building something meaningful and want to work together—or if you just want to chat tech, design, or life—feel free to [email me](mailto:kaleaalind7@gmail.com) or reach out on [LinkedIn](https://www.linkedin.com/in/aalind-kale-6352b6271/).
 
-<br>
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zura16&color=fb760b&label=Visitors" alt="Profile Visitors" />
 </p>
+
+*Last updated: 2026*
+
