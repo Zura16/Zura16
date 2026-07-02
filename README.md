@@ -60,11 +60,15 @@
 ### Git Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zura16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zura16/Zura16/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zura16/Zura16/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Zura16/Zura16/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zura16&bg_color=09090A&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" alt="Aalind's Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zura16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
