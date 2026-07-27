@@ -111,6 +111,8 @@
 
 ---
 
+[![Aalind's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zura16&theme=react-dark&hide_border=true)](https://github.com/Zura16)
+
 ### Let's Collaborate
 
 If you're building something meaningful and want to work together—or if you just want to chat tech, design, or life—feel free to [email me](mailto:kaleaalind7@gmail.com) or reach out on [LinkedIn](https://www.linkedin.com/in/aalind-kale-6352b6271/).
