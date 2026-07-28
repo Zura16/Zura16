@@ -110,6 +110,7 @@
 </p>
 
 ---
+### Git Performance Graph
 
 [![Aalind's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zura16&theme=react-dark&hide_border=true)](https://github.com/Zura16)
 
