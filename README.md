@@ -3,9 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/Zura16">
-    <img src="https://komarev.com/ghpvc/?username=Zura16&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Zura16">
     <img src="https://img.shields.io/github/followers/Zura16?label=Followers&style=flat-square" alt="Followers" />
   </a>
 </p>
@@ -94,25 +91,6 @@
 ```
 
 ---
-
-### Git Performance Metrics
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zura16/Zura16/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zura16/Zura16/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Zura16/Zura16/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<p align="center">
-  - <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zura16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-### Git Performance Graph
-
-[![Aalind's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zura16&theme=react-dark&hide_border=true)](https://github.com/Zura16) 
 
 ### Let's Collaborate
 
